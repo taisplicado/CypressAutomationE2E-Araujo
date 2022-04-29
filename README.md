@@ -9,3 +9,5 @@ Visual Studio Code;<br />
 JavaScript;<br />
 NodeJS;<br />
 Cypress<br />
+
+![cypress2](https://github.com/taisplicado/CypressAutomationE2E-Araujo/blob/main/CypressAutomationE2E-Araujo%20.gif)
